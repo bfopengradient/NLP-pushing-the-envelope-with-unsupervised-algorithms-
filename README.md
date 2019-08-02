@@ -1,3 +1,3 @@
-Testing the boundaries of unsupervised topic models.
+Testing the boundaries of unsupervised topic models. I used term frequency and TFIDF for text-to-numeric features in one repo and word embeddings in the other repo. 
 
-I used the SK learn link to the 20 Newsgroup data set. 
+ 
