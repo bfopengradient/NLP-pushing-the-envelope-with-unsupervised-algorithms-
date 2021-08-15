@@ -8,4 +8,7 @@ The data is the same in both notebooks. The idea is to see how traditional word 
 
 Results are in each notebook
 
+Jul/2019
+
+
  
